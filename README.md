@@ -1,0 +1,2 @@
+# nuxt-hc
+SSR
